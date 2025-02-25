@@ -4,7 +4,7 @@
 
 # ⚡ FastAPI Server with Docker & GitHub Actions 🐳  
 
-![GitHub Workflow Status](https://github.com/Is-hika/fastapi_server/actions/workflows/main.yml/badge.svg)
+![GitHub Workflow](https://img.shields.io/badge/WORKFLOW-GOOD+-blue?style=for-the-badge&logo=python)
 ![Docker](https://img.shields.io/badge/Docker-Supported-blue?style=for-the-badge&logo=docker)  
 ![FastAPI](https://img.shields.io/badge/FastAPI-UltraFast-green?style=for-the-badge&logo=fastapi)  
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)  
