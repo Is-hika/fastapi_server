@@ -1,4 +1,4 @@
-Here's a **fancier and more visually appealing** README for your **FastAPI Server** 🚀🔥  
+**LET'S DIG IN !** 🚀🔥  
 
 ---
 
