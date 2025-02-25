@@ -127,7 +127,7 @@ docker pull is-hika/fastapi-server:latest
 Contributions are welcome! Feel free to **fork** and submit a **pull request**. Let's build something great together! 🚀  
 
 📩 **For queries or support:**  
-📧 Email: your.ishika11082004@gmail.com  
+📧 Email: ishika11082004@gmail.com  
 🌐 [GitHub](https://github.com/Is-hika/fastapi_server)  
 
 🔹 **Happy Coding!** 🎉🐍💡  
